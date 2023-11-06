@@ -2,6 +2,9 @@
 
 
 # Welcome!
+
+# PLEASE IGNORE THIS PROJECT! NOTHING IS IN THIS PROJECT!
+
 # This is the very first repository that is uploaded to GitHub by Rifat using VS Code.
 # This project is only for the memories that is aquired during the processes of programming journey (of Rifat)!
 
